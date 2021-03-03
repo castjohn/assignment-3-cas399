@@ -17,4 +17,4 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ## Thea
-[Thea's gihub](https://github.com/kaniathea/)
+[Thea's github](https://github.com/kaniathea/) 
