@@ -1,0 +1,20 @@
+---
+title: "Carl: a website"
+author: "Carl"
+date: "3/3/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Carl
+[Carl's github](https://github.com/castjohn)
+
+
+![Skier slashing turns](http://www.markkelley.com/wp-content/uploads/2013/10/2850.jpg)
+
+
+## Thea
+[Thea's gihub](https://github.com/kaniathea/)
